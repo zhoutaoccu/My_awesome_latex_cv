@@ -1,0 +1,126 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.13)  1 APR 2018 19:08
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./awesome-source-cv.cls
+(./awesome-source-cv.cls
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+
+LaTeX Warning: You have requested package `',
+               but the package provides `awesome-source-cv'.
+
+Package: awesome-source-cv 2016/11/05 v1.6.1 Awesome Source CV Class
+(d:/Professional_program/texlive/2017/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(d:/Professional_program/texlive/2017/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(d:/Professional_program/texlive/2017/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2017/05/19 3.10 The Babel package
+
+(d:/Professional_program/texlive/2017/texmf-dist/tex/generic/babel-french/frenc
+hb.ldf
+Language: frenchb 2017/04/30 v3.3a French support from the babel system
+
+(d:/Professional_program/texlive/2017/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2017/05/19 3.10 Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
+)
+\l@acadian = a dialect from \language\l@french 
+\l@canadien = a dialect from \language\l@french 
+\FB@nonchar=\count88
+\FBcolonsp=\toks14
+\FBthinsp=\toks15
+Package babel Info: Making : an active character on input line 362.
+Package babel Info: Making ; an active character on input line 363.
+Package babel Info: Making ! an active character on input line 364.
+Package babel Info: Making ? an active character on input line 365.
+\FBguillsp=\toks16
+\FBguill@level=\count89
+\FB@everypar=\toks17
+\FB@Mht=\dimen104
+\mc@charclass=\count90
+\mc@charfam=\count91
+\mc@charslot=\count92
+\std@mcc=\count93
+\dec@mcc=\count94
+\listindentFB=\skip43
+\descindentFB=\skip44
+\labelwidthFB=\skip45
+\leftmarginFB=\skip46
+\parindentFFN=\dimen105
+\FBfnindent=\skip47
+))
+(d:/Professional_program/texlive/2017/texmf-dist/tex/latex/carlisle/scalefnt.st
+y)
+(d:/Professional_program/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(d:/Professional_program/texlive/2017/texmf-dist/tex/latex/fontspec/fontspec.st
+y (d:/Professional_program/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2017/05/13 L3 programming layer (loader) 
+
+(d:/Professional_program/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3-code.
+tex
+Package: expl3 2017/05/13 L3 programming layer (code)
+\c_max_int=\count95
+\l_tmpa_int=\count96
+\l_tmpb_int=\count97
+\g_tmpa_int=\count98
+\g_tmpb_int=\count99
+\g__prg_map_int=\count100
+\c_log_iow=\count101
+\l_iow_line_count_int=\count102
+\l__iow_line_target_int=\count103
+\l__iow_one_indent_int=\count104
+\l__iow_indent_int=\count105
+\c_zero_dim=\dimen106
+\c_max_dim=\dimen107
+\l_tmpa_dim=\dimen108
+\l_tmpb_dim=\dimen109
+\g_tmpa_dim=\dimen110
+\g_tmpb_dim=\dimen111
+\c_zero_skip=\skip48
+\c_max_skip=\skip49
+\l_tmpa_skip=\skip50
+\l_tmpb_skip=\skip51
+\g_tmpa_skip=\skip52
+\g_tmpb_skip=\skip53
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+\l_keys_choice_int=\count106
+\c__fp_leading_shift_int=\count107
+\c__fp_middle_shift_int=\count108
+\c__fp_trailing_shift_int=\count109
+\c__fp_big_leading_shift_int=\count110
+\c__fp_big_middle_shift_int=\count111
+\c__fp_big_trailing_shift_int=\count112
+\c__fp_Bigg_leading_shift_int=\count113
+\c__fp_Bigg_middle_shift_int=\count114
+\c__fp_Bigg_trailing_shift_int=\count115
+\c__fp_rand_size_int=\count116
+\c__fp_rand_four_int=\count117
+\c__fp_rand_eight_int=\count118
+\l__sort_length_int=\count119
+\l__sort_min_int=\count120
+\l__sort_top_int=\count121
+\l_

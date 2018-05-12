@@ -1,0 +1,73 @@
+% Awesome CV LaTeX Template
+%
+% This template has been downloaded from:
+% https://github.com/huajh/huajh-awesome-latex-cv
+%
+% Author:
+% Junhao Hua
+
+
+%Section: Work Experience at the top
+\sectionTitle{实习/项目经历}{\faCode}
+ 
+\begin{experiences}
+
+  \experience
+  {2017年6月} {基于特征优选的电子信息设备试验结果建模分析研究}{CEMEE数学建模竞赛}{Python编程}
+  {2017年5月 } {
+				  	\begin{itemize}
+				  		\item  基于已有的电子信息设备的试验因子集和响应变量，采用集成回归模型\emph{随机森林RF}对未完成的试验结果进行预测。
+				  		\item 建立预测误差模型，通过基于单变量线性回归检验进行特征重要性排序，然后基于十折交叉验证找到最优解N个特征，极大提高了预测精度。
+						\item \faGithub: \link{https://github.com/zhoutaoccu/Regression-prediction-based-on-feature-selection} {github.com/zhoutaoccu/Regression-prediction-based-on-feature-selection}
+				  	\end{itemize}
+				  }
+				  {回归预测, 特征优选, 随机森林RF}
+
+  \emptySeparator
+  \experience
+  {2017年1月} {Caltech101数据集图像分类}{国防科技大学}{机器学习课程项目}
+  {2016年12月}    {
+				  	\begin{itemize}
+				  		\item 常规Bag-of-words特征提取的分类正确率只有48\%，CNN采用训练好的AlexNet对Caltech101进行训练和预测，其均值正确率达到84.48\%，谱聚类对10类图片，共100张图片进行谱聚类，其测试结果正确率为71\%。
+				  	\end{itemize}
+				  }
+				  {图像分类, Bag of words, CNN, 谱聚类}
+
+  \emptySeparator			
+  \experience
+  {2016年1月} {TSP实习生}{MATLAB}{富士通南大软件技术有限公司， 南京}
+  {2015年11月}    {
+  	\begin{itemize}
+  		\item  负责汽车电子ARM芯片Target Support Package的开发和测试，使用Simulink模块和Perl语言；
+  		\item  查看芯片手册，开发显示驱动程序，完成\emph{基于模型设计MBD}的自动化工具的部分功能。
+  	\end{itemize}
+  }
+  {MBD, Simulink}
+
+  \emptySeparator
+  \experience
+    {2015年5月}   {基于机器视觉的畜肉品质分级研究 MATLAB}{ 南京航空航天大学}{省级创新项目（优秀）}
+    {2014年5月} {
+                      \begin{itemize}
+                        \item 基于非局部均值的畜肉图像去噪方法；
+                        \item 基于交叉熵/Tsallis熵的畜肉图像分割方法研究；
+                        \item 基于不变矩、灰度共生矩和支持向量机的畜肉图像特征提取及分类方法研究；
+				   \item 设计GUI，可视化整个畜肉品质分级功能。
+                        \item \faGithub: \link{https://github.com/zhoutaoccu/Meat-quality-grading-based-on-machine-vision}{github.com/zhoutaoccu/Meat-quality-grading-based-on-machine-vision}, 
+                      \end{itemize}
+                    }
+                    {数字图像处理, 非局部均值去噪, 图像分割, 图像分类}
+
+  \emptySeparator 
+  \experience
+  {2015年5月} {嵌入式开发}{南京航空航天大学}{电子设计竞赛}
+  {2013年12月}    {
+				  	\begin{itemize}
+				  		\item Dec 2013, \emph{多功能电子万年历} | \emph{C语言}| \emph{队长}. 
+				  		用单片机实现与时钟、LCD显示、红外遥控、温度传感、语音调动的双向通信，语音整半点报时，并且模式可选，增加红外遥控模块，摆脱传统的矩阵键盘，日程管理对功能进行扩充，闹铃循环，并由遥控器停止闹铃，人机交互人性化。 \faGithub: \link{https://github.com/zhoutaoccu/Multi-function-electronic-calendar} {github.com/zhoutaoccu/Multi-function-electronic-calendar}                                                                      
+				  		\item May 2015, \emph{基于WIFI的智能车载醉酒禁驾系统} | \emph{C语言}+上位机 | \emph{独立开发设计}.对驾驶员呼气进行判断，传感器采集到的信号经过放大后调理后通过AD转换得到数字量进而得到血液酒精浓度值，如果超过酒驾理论值，则语音提醒，并且不能开启引擎。通过WIFI无线传输给交警管理服务PC端进行数据储存管理，实现检测和自动记录酒精浓度值的功能。\faGithub: \link{https://github.com/zhoutaoccu/Smart-car-drunk-driving-banned-system} {github.com/zhoutaoccu/Smart-car-drunk-driving-banned-system}
+				  	\end{itemize}
+				  }
+				  {电子设计, 嵌入式, C, 信号调理, 电路设计}
+		
+\end{experiences}
